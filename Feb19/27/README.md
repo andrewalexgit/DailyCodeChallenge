@@ -26,3 +26,7 @@ First I would sort the list [3, 7, 10, 15] and work from the outside in.
 -> [1, 3, 4, 5, 9, 12, 13, 14] <- 1 and 14 is too low therefore 1 is eliminated
 
 -> [3, 4, 5, 9, 12, 13, 14] <- 3 and 14 is a match! (3, 4) is our answer!
+
+#### Coding Specs
+
+I am able to keep the array as is, no extra datastructure is needed.

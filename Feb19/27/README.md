@@ -30,3 +30,7 @@ First I would sort the list [3, 7, 10, 15] and work from the outside in.
 #### Coding Specs
 
 ArrayDeque datastructure to easily peek and poll from either side.
+
+#### How can I optimize the code further?
+
+I assume that I can optimize my current answer by improving the sorting algorithm, utilizing a Set structure to eliminate doubles, and finally use a middle-out system instead of outside-in.

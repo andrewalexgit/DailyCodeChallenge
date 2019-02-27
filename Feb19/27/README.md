@@ -29,4 +29,4 @@ First I would sort the list [3, 7, 10, 15] and work from the outside in.
 
 #### Coding Specs
 
-I am able to keep the array as is, no extra datastructure is needed.
+ArrayDeque datastructure to easily peek and poll from either side.

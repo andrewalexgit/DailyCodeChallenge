@@ -12,8 +12,7 @@
 > how to tackle this challenge with a HashMap data structure. The question however was asking for just the number of possible
 > messages, NOT the messages themselves.
 
-#### Answered in `` java
-                 ``
+#### Answered in java
                  
 Really simple stuff, first of all the problem automatically always have at least 1 answer because we assume the input is valid.
 Second the most maximum value for a letter mapping is 26 therefore larger-than single digit numbers in the input must be n < 27.

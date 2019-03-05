@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Answer_20190305 {
 
 	public static void main(String[] args) {
